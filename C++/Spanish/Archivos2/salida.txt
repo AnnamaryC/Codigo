@@ -1,0 +1,82 @@
+Empleado 1
+Se paga esta cantidad esta semana sin la comision: 500$
+Usted hizo esta cantidad de ventas para la empresa: 1$
+Se gano esta cantidad en comisiones: 0$
+Se desconto esta cantidad en Seguro: 100$
+Su sueldo neto es 500$
+Su sueldo final sera 400$
+
+Empleado 2
+Se paga esta cantidad esta semana sin la comision: 500$
+Usted hizo esta cantidad de ventas para la empresa: 10$
+Se gano esta cantidad en comisiones: 0$
+Se desconto esta cantidad en Seguro: 100$
+Su sueldo neto es 500$
+Su sueldo final sera 400$
+
+Empleado 3
+Se paga esta cantidad esta semana sin la comision: 500$
+Usted hizo esta cantidad de ventas para la empresa: 100$
+Se gano esta cantidad en comisiones: 0$
+Se desconto esta cantidad en Seguro: 100$
+Su sueldo neto es 500$
+Su sueldo final sera 400$
+
+Empleado 4
+Se paga esta cantidad esta semana sin la comision: 500$
+Usted hizo esta cantidad de ventas para la empresa: 1000$
+Se gano esta cantidad en comisiones: 100$
+Se desconto esta cantidad en Seguro: 400$
+Su sueldo neto es 600$
+Su sueldo final sera 200$
+
+Empleado 5
+Se paga esta cantidad esta semana sin la comision: 500$
+Usted hizo esta cantidad de ventas para la empresa: 2000$
+Se gano esta cantidad en comisiones: 200$
+Se desconto esta cantidad en Seguro: 100$
+Su sueldo neto es 700$
+Su sueldo final sera 600$
+
+Empleado 6
+Se paga esta cantidad esta semana sin la comision: 500$
+Usted hizo esta cantidad de ventas para la empresa: 2500$
+Se gano esta cantidad en comisiones: 250$
+Se desconto esta cantidad en Seguro: 100$
+Su sueldo neto es 750$
+Su sueldo final sera 650$
+
+Empleado 7
+Se paga esta cantidad esta semana sin la comision: 500$
+Usted hizo esta cantidad de ventas para la empresa: 5000$
+Se gano esta cantidad en comisiones: 500$
+Se desconto esta cantidad en Seguro: 400$
+Su sueldo neto es 1000$
+Su sueldo final sera 600$
+
+Empleado 8
+Se paga esta cantidad esta semana sin la comision: 500$
+Usted hizo esta cantidad de ventas para la empresa: 5500$
+Se gano esta cantidad en comisiones: 1350$
+Se desconto esta cantidad en Seguro: 400$
+Su sueldo neto es 1850$
+Su sueldo final sera 1450$
+
+Empleado 9
+Se paga esta cantidad esta semana sin la comision: 500$
+Usted hizo esta cantidad de ventas para la empresa: 800$
+Se gano esta cantidad en comisiones: 0$
+Se desconto esta cantidad en Seguro: 100$
+Su sueldo neto es 500$
+Su sueldo final sera 400$
+
+Empleado 10
+Se paga esta cantidad esta semana sin la comision: 500$
+Usted hizo esta cantidad de ventas para la empresa: 50$
+Se gano esta cantidad en comisiones: 0$
+Se desconto esta cantidad en Seguro: 100$
+Su sueldo neto es 500$
+Su sueldo final sera 400$
+
+
+La compañia gano 16961$ en ventas de sus empleados esta semana.
