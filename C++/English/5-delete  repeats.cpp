@@ -1,3 +1,5 @@
+//Annamary W. Cartagena
+//Code that deletes repeating letters
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
